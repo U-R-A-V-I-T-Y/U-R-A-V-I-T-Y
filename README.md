@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @U-R-A-V-I-T-Y
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Pythin
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python open source projects
 - 📫 How to reach me ...
 
