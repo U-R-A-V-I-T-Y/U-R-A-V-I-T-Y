@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @U-R-A-V-I-T-Y
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on C++ open source projects
 - 📫 How to reach me ...
 
